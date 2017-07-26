@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    color: green;
+    font-size: 3em;
+    margin: 22px 300px 20px 20px;
+    border: 3px outset #314159;
+    border-radius: 1px;
+    text-align: center;
+    width: 20%;
+}
+
+.textentry{
+    box-sizing: content-box;
+    display: block;
+    margin: 20px auto;
+    width: 45%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orangered;
+}
+
+#jedip{
+    font-size: 1.2em;
+    background-color: rgba(255, 255, 0, .5);
+    width: 40%;
+    height: 70px;
+}
